@@ -1,9 +1,10 @@
 ---
-title: A Great Example
-keywords: great example, spoiler free guide
-author: Juho Rutila
-praise: https://www.buymeacoffee.com/jrutila
+title: Tachyon Dreams 2
+keywords: tachyon dreams 2,typing adventure, spoiler free guide
+author: Scott Proctor
+praise: https://www.buymeacoffee.com/fancyscott
 ---
 
-A Great Example is the latest and coolest point'n'click game to make example guides of.
-This text is shown to the readers when they got to the Great Example NGH page.
+Continuing off from the last adventure, Dodger has been left on an abandoned world for over a year, and with no dishes to wash it's looking truly hopeless... hey, what's that shadow in the bushes?
+
+Select a guide to start your journey.
